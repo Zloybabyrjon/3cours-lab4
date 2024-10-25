@@ -1,0 +1,19 @@
+{
+    "name": "egor/interfaces",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Egor\\Interfaces\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kazakov Egor",
+            "email": "egortumanov812@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.12",
+        "phpunit/phpunit": "^11.4"
+    }
+}
